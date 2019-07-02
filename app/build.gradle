@@ -43,4 +43,10 @@ dependencies {
     kapt 'androidx.lifecycle:lifecycle-compiler:2.0.0' // annotationProcessor
 
 
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    implementation 'androidx.coordinatorlayout:coordinatorlayout:1.0.0'
+
+    implementation 'com.google.android.material:material:1.1.0-alpha07'
+
 }
